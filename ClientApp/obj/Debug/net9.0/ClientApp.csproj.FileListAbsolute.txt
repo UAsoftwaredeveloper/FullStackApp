@@ -199,8 +199,6 @@ C:\Users\Travel\Downloads\Umesh\Projects\FullStackApp\ClientApp\bin\Debug\net9.0
 C:\Users\Travel\Downloads\Umesh\Projects\FullStackApp\ClientApp\bin\Debug\net9.0\wwwroot\_framework\icudt_CJK.tjcz0u77k5.dat
 C:\Users\Travel\Downloads\Umesh\Projects\FullStackApp\ClientApp\bin\Debug\net9.0\wwwroot\_framework\icudt_EFIGS.tptq2av103.dat
 C:\Users\Travel\Downloads\Umesh\Projects\FullStackApp\ClientApp\bin\Debug\net9.0\wwwroot\_framework\icudt_no_CJK.lfu7j35m59.dat
-C:\Users\Travel\Downloads\Umesh\Projects\FullStackApp\ClientApp\bin\Debug\net9.0\wwwroot\_framework\ClientApp.z8uicyky6l.wasm
-C:\Users\Travel\Downloads\Umesh\Projects\FullStackApp\ClientApp\bin\Debug\net9.0\wwwroot\_framework\ClientApp.cu45rdc6kz.pdb
 C:\Users\Travel\Downloads\Umesh\Projects\FullStackApp\ClientApp\bin\Debug\net9.0\wwwroot\_framework\blazor.boot.json
 C:\Users\Travel\Downloads\Umesh\Projects\FullStackApp\ClientApp\bin\Debug\net9.0\wwwroot\_framework\blazor.webassembly.js.gz
 C:\Users\Travel\Downloads\Umesh\Projects\FullStackApp\ClientApp\bin\Debug\net9.0\wwwroot\_framework\Microsoft.AspNetCore.Authorization.phaa9r44xv.wasm.gz
@@ -403,8 +401,6 @@ C:\Users\Travel\Downloads\Umesh\Projects\FullStackApp\ClientApp\bin\Debug\net9.0
 C:\Users\Travel\Downloads\Umesh\Projects\FullStackApp\ClientApp\bin\Debug\net9.0\wwwroot\_framework\icudt_CJK.tjcz0u77k5.dat.gz
 C:\Users\Travel\Downloads\Umesh\Projects\FullStackApp\ClientApp\bin\Debug\net9.0\wwwroot\_framework\icudt_EFIGS.tptq2av103.dat.gz
 C:\Users\Travel\Downloads\Umesh\Projects\FullStackApp\ClientApp\bin\Debug\net9.0\wwwroot\_framework\icudt_no_CJK.lfu7j35m59.dat.gz
-C:\Users\Travel\Downloads\Umesh\Projects\FullStackApp\ClientApp\bin\Debug\net9.0\wwwroot\_framework\ClientApp.z8uicyky6l.wasm.gz
-C:\Users\Travel\Downloads\Umesh\Projects\FullStackApp\ClientApp\bin\Debug\net9.0\wwwroot\_framework\ClientApp.cu45rdc6kz.pdb.gz
 C:\Users\Travel\Downloads\Umesh\Projects\FullStackApp\ClientApp\bin\Debug\net9.0\wwwroot\_framework\blazor.boot.json.gz
 C:\Users\Travel\Downloads\Umesh\Projects\FullStackApp\ClientApp\bin\Debug\net9.0\ClientApp.staticwebassets.runtime.json
 C:\Users\Travel\Downloads\Umesh\Projects\FullStackApp\ClientApp\bin\Debug\net9.0\ClientApp.staticwebassets.endpoints.json
@@ -1069,9 +1065,6 @@ C:\Users\Travel\Downloads\Umesh\Projects\FullStackApp\ClientApp\obj\Debug\net9.0
 C:\Users\Travel\Downloads\Umesh\Projects\FullStackApp\ClientApp\obj\Debug\net9.0\compressed\cnkr2tti6u-tjcz0u77k5.gz
 C:\Users\Travel\Downloads\Umesh\Projects\FullStackApp\ClientApp\obj\Debug\net9.0\compressed\4adg7haxbc-tptq2av103.gz
 C:\Users\Travel\Downloads\Umesh\Projects\FullStackApp\ClientApp\obj\Debug\net9.0\compressed\l3p8rvglcy-lfu7j35m59.gz
-C:\Users\Travel\Downloads\Umesh\Projects\FullStackApp\ClientApp\obj\Debug\net9.0\compressed\kwzkrbi5h4-z8uicyky6l.gz
-C:\Users\Travel\Downloads\Umesh\Projects\FullStackApp\ClientApp\obj\Debug\net9.0\compressed\ftph3tm72y-cu45rdc6kz.gz
-C:\Users\Travel\Downloads\Umesh\Projects\FullStackApp\ClientApp\obj\Debug\net9.0\compressed\rot3wv43ix-3wqockwt1u.gz
 C:\Users\Travel\Downloads\Umesh\Projects\FullStackApp\ClientApp\obj\Debug\net9.0\staticwebassets.build.json
 C:\Users\Travel\Downloads\Umesh\Projects\FullStackApp\ClientApp\obj\Debug\net9.0\staticwebassets.build.json.cache
 C:\Users\Travel\Downloads\Umesh\Projects\FullStackApp\ClientApp\obj\Debug\net9.0\staticwebassets.development.json
@@ -1081,3 +1074,10 @@ C:\Users\Travel\Downloads\Umesh\Projects\FullStackApp\ClientApp\obj\Debug\net9.0
 C:\Users\Travel\Downloads\Umesh\Projects\FullStackApp\ClientApp\obj\Debug\net9.0\refint\ClientApp.dll
 C:\Users\Travel\Downloads\Umesh\Projects\FullStackApp\ClientApp\obj\Debug\net9.0\ClientApp.pdb
 C:\Users\Travel\Downloads\Umesh\Projects\FullStackApp\ClientApp\obj\Debug\net9.0\ref\ClientApp.dll
+C:\Users\Travel\Downloads\Umesh\Projects\FullStackApp\ClientApp\bin\Debug\net9.0\wwwroot\_framework\ClientApp.a8yd4cs1w5.wasm
+C:\Users\Travel\Downloads\Umesh\Projects\FullStackApp\ClientApp\bin\Debug\net9.0\wwwroot\_framework\ClientApp.6gq05pggwr.pdb
+C:\Users\Travel\Downloads\Umesh\Projects\FullStackApp\ClientApp\bin\Debug\net9.0\wwwroot\_framework\ClientApp.a8yd4cs1w5.wasm.gz
+C:\Users\Travel\Downloads\Umesh\Projects\FullStackApp\ClientApp\bin\Debug\net9.0\wwwroot\_framework\ClientApp.6gq05pggwr.pdb.gz
+C:\Users\Travel\Downloads\Umesh\Projects\FullStackApp\ClientApp\obj\Debug\net9.0\compressed\kwzkrbi5h4-a8yd4cs1w5.gz
+C:\Users\Travel\Downloads\Umesh\Projects\FullStackApp\ClientApp\obj\Debug\net9.0\compressed\ftph3tm72y-6gq05pggwr.gz
+C:\Users\Travel\Downloads\Umesh\Projects\FullStackApp\ClientApp\obj\Debug\net9.0\compressed\rot3wv43ix-3terhn4cia.gz

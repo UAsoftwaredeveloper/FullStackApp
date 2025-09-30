@@ -1,7 +1,6 @@
 @page "/fetchproducts"
-@using System.Net.Http.Json
-@using System.Text.Json
-@inject HttpClient Http
+@using ClientApp.Models
+@inject ClientApp.Services.IProductService ProductService
 
 <h3>Product List</h3>
 
@@ -34,19 +33,19 @@ else
 @code {
     private Product[]? products;
     private string? errorMessage;
+    private bool isLoading;
 
     protected override async Task OnInitializedAsync()
     {
+        isLoading = true;
+        errorMessage = null;
         try
         {
-            using var cts = new CancellationTokenSource(TimeSpan.FromSeconds(10));
-
-            // Copilot suggested using GetFromJsonAsync for simplicity
-            products = await Http.GetFromJsonAsync<Product[]>("http://localhost:5286/api/productlist", cts.Token);
-
-            if (products == null)
+            products = await ProductService.GetProductsAsync(ct: CancellationToken.None);
+            if (products == null || products.Length == 0)
             {
-                errorMessage = "Server returned empty or invalid data.";
+                // allow UI to show 'No products available.' when array empty
+                products ??= Array.Empty<Product>();
             }
         }
         catch (TaskCanceledException)
@@ -57,28 +56,33 @@ else
         {
             errorMessage = $"Network error: {ex.Message}";
         }
-        catch (JsonException ex)
-        {
-            errorMessage = $"Error parsing JSON: {ex.Message}";
-        }
         catch (Exception ex)
         {
             errorMessage = $"Unexpected error: {ex.Message}";
         }
+        finally
+        {
+            isLoading = false;
+        }
     }
 
-    public class Product
+    private async Task RefreshAsync()
     {
-        public int Id { get; set; }
-        public string Name { get; set; } = string.Empty;
-        public double Price { get; set; }
-        public int Stock { get; set; }
-        public Category? Category { get; set; }
+        isLoading = true;
+        errorMessage = null;
+        try
+        {
+            products = await ProductService.GetProductsAsync(forceRefresh: true);
+        }
+        catch (Exception ex)
+        {
+            errorMessage = $"Failed to refresh: {ex.Message}";
+        }
+        finally
+        {
+            isLoading = false;
+        }
     }
 
-    public class Category
-    {
-        public int Id { get; set; }
-        public string Name { get; set; } = string.Empty;
-    }
+    // Models moved to ClientApp.Models.Product
 }
