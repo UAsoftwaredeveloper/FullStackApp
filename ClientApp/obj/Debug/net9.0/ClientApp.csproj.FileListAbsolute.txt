@@ -1074,10 +1074,10 @@ C:\Users\Travel\Downloads\Umesh\Projects\FullStackApp\ClientApp\obj\Debug\net9.0
 C:\Users\Travel\Downloads\Umesh\Projects\FullStackApp\ClientApp\obj\Debug\net9.0\refint\ClientApp.dll
 C:\Users\Travel\Downloads\Umesh\Projects\FullStackApp\ClientApp\obj\Debug\net9.0\ClientApp.pdb
 C:\Users\Travel\Downloads\Umesh\Projects\FullStackApp\ClientApp\obj\Debug\net9.0\ref\ClientApp.dll
-C:\Users\Travel\Downloads\Umesh\Projects\FullStackApp\ClientApp\bin\Debug\net9.0\wwwroot\_framework\ClientApp.a8yd4cs1w5.wasm
-C:\Users\Travel\Downloads\Umesh\Projects\FullStackApp\ClientApp\bin\Debug\net9.0\wwwroot\_framework\ClientApp.6gq05pggwr.pdb
-C:\Users\Travel\Downloads\Umesh\Projects\FullStackApp\ClientApp\bin\Debug\net9.0\wwwroot\_framework\ClientApp.a8yd4cs1w5.wasm.gz
-C:\Users\Travel\Downloads\Umesh\Projects\FullStackApp\ClientApp\bin\Debug\net9.0\wwwroot\_framework\ClientApp.6gq05pggwr.pdb.gz
-C:\Users\Travel\Downloads\Umesh\Projects\FullStackApp\ClientApp\obj\Debug\net9.0\compressed\kwzkrbi5h4-a8yd4cs1w5.gz
-C:\Users\Travel\Downloads\Umesh\Projects\FullStackApp\ClientApp\obj\Debug\net9.0\compressed\ftph3tm72y-6gq05pggwr.gz
-C:\Users\Travel\Downloads\Umesh\Projects\FullStackApp\ClientApp\obj\Debug\net9.0\compressed\rot3wv43ix-3terhn4cia.gz
+C:\Users\Travel\Downloads\Umesh\Projects\FullStackApp\ClientApp\bin\Debug\net9.0\wwwroot\_framework\ClientApp.4rizny0ce6.wasm
+C:\Users\Travel\Downloads\Umesh\Projects\FullStackApp\ClientApp\bin\Debug\net9.0\wwwroot\_framework\ClientApp.s9zekblyzh.pdb
+C:\Users\Travel\Downloads\Umesh\Projects\FullStackApp\ClientApp\bin\Debug\net9.0\wwwroot\_framework\ClientApp.4rizny0ce6.wasm.gz
+C:\Users\Travel\Downloads\Umesh\Projects\FullStackApp\ClientApp\bin\Debug\net9.0\wwwroot\_framework\ClientApp.s9zekblyzh.pdb.gz
+C:\Users\Travel\Downloads\Umesh\Projects\FullStackApp\ClientApp\obj\Debug\net9.0\compressed\kwzkrbi5h4-4rizny0ce6.gz
+C:\Users\Travel\Downloads\Umesh\Projects\FullStackApp\ClientApp\obj\Debug\net9.0\compressed\ftph3tm72y-s9zekblyzh.gz
+C:\Users\Travel\Downloads\Umesh\Projects\FullStackApp\ClientApp\obj\Debug\net9.0\compressed\rot3wv43ix-uqlap87ws6.gz

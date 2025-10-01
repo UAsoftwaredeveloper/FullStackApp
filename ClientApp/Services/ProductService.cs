@@ -18,7 +18,8 @@ namespace ClientApp.Services
         private Product[]? _cache;
         private Task<Product[]>? _loadingTask;
         private readonly SemaphoreSlim _lock = new SemaphoreSlim(1, 1);
-        private readonly string _endpoint = "http://localhost:5286/api/productlist";
+    // Use a relative endpoint so the registered HttpClient.BaseAddress is honored
+    private readonly string _endpoint = "/api/productlist";
 
         public ProductService(HttpClient http)
         {
